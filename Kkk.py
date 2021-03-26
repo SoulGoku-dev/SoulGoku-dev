@@ -143,7 +143,7 @@ def help_handler(update: Update, _: CallbackContext) -> None:
 
 def main() -> None:
     # Create the Updater and pass it your bot's token.
-    updater = Updater("TOKEN")
+    updater = Updater("1733062635:AAEfN_XL5R5x7ZOfBaQjw_Wu0eGLcejHS-o")
     dispatcher = updater.dispatcher
     dispatcher.add_handler(CommandHandler('start', start))
     dispatcher.add_handler(CommandHandler('poll', poll))
