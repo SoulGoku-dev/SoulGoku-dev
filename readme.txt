@@ -1,1 +1,1 @@
-tg: https://t.me/soulgoku
+tg: https://t.me/pluto_ad
